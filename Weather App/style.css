@@ -1,0 +1,98 @@
+*{
+    font-family: "Open Sans";
+}
+
+body{
+    background-color: #293251;
+}
+
+.container{
+    width:300px;
+    background-color: #fff;
+    display: block;
+    margin:0 auto;
+    border-radius: 10px;
+    padding-bottom: 50px;
+}
+
+.title{
+    width:300px;
+    height:50px;
+    border-radius: 10px 10px 0 0;
+}
+
+.title p {
+ text-align:center;
+ padding:15px;
+ margin:0 auto;
+ font-size: 1.2rem;
+ color: #293251
+}
+
+
+.alert{
+    background-color: #f8d7da;
+    display: none;
+}
+
+.alert p{
+    color:#721c24;
+    font-size: 1.2rem;
+    margin:0;
+    padding: 10px 0;
+    text-align:center;
+}
+
+.child-container{
+    width:300px;
+    height:260px;
+    background-color: #F4F9FF;
+
+}
+
+.default-icon{
+    width:300px;
+    height:128px;
+}
+
+.default-icon img{
+    display: block;
+    margin: 0 auto;
+}
+
+.temp-value{
+    width:300px;
+    height:60px;
+}
+
+.temp-value p{
+    padding:0;
+    margin:0;
+    color: #293251;
+    font-size: 4em;
+    text-align: center;
+    cursor: pointer;
+}
+
+.temp-value span{
+    color: hsl(227, 33%, 24%);
+    font-size : 0.5em;
+}
+
+
+.temp-desc p{
+  padding:8px;
+  margin:0;
+  color: #293251;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+
+.location p{
+    margin: 0;
+    padding:0;
+    color:#293251;
+    text-align: center;
+    font-size: 0.8em;
+}
