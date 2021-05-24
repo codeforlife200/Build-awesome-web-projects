@@ -1,4 +1,4 @@
-# 5_web_project
+# Build_awesome_web_projects
 This Repo contains the source code of web projects that we explained in our YouTube channel
 
 Projects are as under :
