@@ -1,5 +1,5 @@
 # 5_web_project
-This Repo contains the 5 awesome web projects that I explained in my YouTube channel
+This Repo contains the source code of web projects that we explained in our YouTube channel
 
 Projects are as under :
 
